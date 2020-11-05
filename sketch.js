@@ -3,7 +3,7 @@ var speed, weight;
 
 function setup() {
   createCanvas(1600,400);
-speed=random(22,25)
+speed=random(28,32)
 weight=random(400,1500)
 
  car=createSprite(50, 200, 50, 50);
